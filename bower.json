@@ -2,14 +2,14 @@
   "name": "jquery-mobile-bower",
   "version": "1.4.5",
   "main": [
-    "js/jquery.mobile-1.4.5.js",
-    "css/jquery.mobile-1.4.5.css"
+    "js/jquery.mobile.js",
+    "css/jquery.mobile.css"
   ],
   "dependencies": {
-    "jquery": "~1.10.0"
+    "jquery": "latest"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jobrapido/jquery-mobile-bower.git"
+    "url": "https://github.com/NM-OBA/jquery-mobile-bower.git"
   }
 }
